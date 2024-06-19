@@ -1,2 +1,1 @@
-# HelloWorld
-First git practice
+I am learning to become a software engineer
